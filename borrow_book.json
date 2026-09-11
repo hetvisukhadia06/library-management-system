@@ -1,0 +1,14 @@
+{
+    "121": {
+        "book_id": "121",
+        "member_id": "23",
+        "borrow_date": "2026-09-08",
+        "return_date": "2026-09-15",
+        "status": "borrowed",
+        "book_data": {
+            "name": "react development",
+            "book_author": "yash shah",
+            "book_location": "row 30"
+        }
+    }
+}

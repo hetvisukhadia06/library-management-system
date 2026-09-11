@@ -1,0 +1,157 @@
+{
+    "102": {
+        "name": "python ",
+        "book_author": "jignesh patel",
+        "book_location": "row 16"
+    },
+    "103": {
+        "name": "python full course",
+        "book_author": "jay patel",
+        "book_location": "row 17"
+    },
+    "104": {
+        "name": "java - the complete structure",
+        "book_author": "ronak solanki",
+        "book_location": "row 33"
+    },
+    "105": {
+        "name": "c programming basics",
+        "book_author": "amit patel",
+        "book_location": "row 10"
+    },
+    "106": {
+        "name": "c++ programming",
+        "book_author": "rahul shah",
+        "book_location": "row 11"
+    },
+    "107": {
+        "name": "advanced python",
+        "book_author": "karan mehta",
+        "book_location": "row 14"
+    },
+    "108": {
+        "name": "django web development",
+        "book_author": "priya patel",
+        "book_location": "row 15"
+    },
+    "109": {
+        "name": "flask web development",
+        "book_author": "jayesh shah",
+        "book_location": "row 18"
+    },
+    "110": {
+        "name": "data structures",
+        "book_author": "ravi solanki",
+        "book_location": "row 19"
+    },
+    "111": {
+        "name": "algorithms made easy",
+        "book_author": "neha patel",
+        "book_location": "row 20"
+    },
+    "112": {
+        "name": "database management system",
+        "book_author": "manish shah",
+        "book_location": "row 21"
+    },
+    "113": {
+        "name": "sql fundamentals",
+        "book_author": "kiran joshi",
+        "book_location": "row 22"
+    },
+    "114": {
+        "name": "mysql complete guide",
+        "book_author": "hardik patel",
+        "book_location": "row 23"
+    },
+    "115": {
+        "name": "computer networks",
+        "book_author": "rohit desai",
+        "book_location": "row 24"
+    },
+    "116": {
+        "name": "operating system concepts",
+        "book_author": "vishal shah",
+        "book_location": "row 25"
+    },
+    "117": {
+        "name": "software engineering",
+        "book_author": "ankit patel",
+        "book_location": "row 26"
+    },
+    "118": {
+        "name": "web development basics",
+        "book_author": "deep shah",
+        "book_location": "row 27"
+    },
+    "119": {
+        "name": "html and css",
+        "book_author": "krunal patel",
+        "book_location": "row 28"
+    },
+    "120": {
+        "name": "javascript fundamentals",
+        "book_author": "meet joshi",
+        "book_location": "row 29"
+    },
+    "122": {
+        "name": "node js basics",
+        "book_author": "dhruv patel",
+        "book_location": "row 31"
+    },
+    "123": {
+        "name": "machine learning basics",
+        "book_author": "harsh mehta",
+        "book_location": "row 32"
+    },
+    "124": {
+        "name": "artificial intelligence",
+        "book_author": "parth shah",
+        "book_location": "row 34"
+    },
+    "126": {
+        "name": "cloud computing",
+        "book_author": "vivek joshi",
+        "book_location": "row 36"
+    },
+    "127": {
+        "name": "cyber security basics",
+        "book_author": "akash shah",
+        "book_location": "row 37"
+    },
+    "128": {
+        "name": "computer architecture",
+        "book_author": "sagar patel",
+        "book_location": "row 38"
+    },
+    "130": {
+        "name": "fundamentals of statastics",
+        "book_author": "jignesh patel",
+        "book_location": "row 88"
+    },
+    "131": {
+        "name": "java the complete reference",
+        "book_author": "kiran patel",
+        "book_location": "row 15"
+    },
+    "132": {
+        "name": "RAMAYAN",
+        "book_author": "vedvyas",
+        "book_location": "row 15"
+    },
+    "101": {
+        "name": "maths ",
+        "book_author": "jayesh shah",
+        "book_location": "row 19"
+    },
+    "133": {
+        "name": "hetvi the rider",
+        "book_author": "hetvi",
+        "book_location": "row 20"
+    },
+    "134": {
+        "name": "kkkkk",
+        "book_author": "kishan",
+        "book_location": "row 12"
+    }
+}

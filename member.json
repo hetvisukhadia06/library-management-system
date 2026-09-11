@@ -1,0 +1,418 @@
+{
+    "1": {
+        "member_name": "hetvi sukhadia",
+        "member_course": "bca"
+    },
+    "2": {
+        "member_name": "samir solanki",
+        "member_course": "mca"
+    },
+    "3": {
+        "member_name": "rahul patel",
+        "member_course": "bca"
+    },
+    "4": {
+        "member_name": "hetvi",
+        "member_course": "imca"
+    },
+    "5": {
+        "member_name": "amit joshi",
+        "member_course": "bba"
+    },
+    "6": {
+        "member_name": "neha patel",
+        "member_course": "bcom"
+    },
+    "7": {
+        "member_name": "karan mehta",
+        "member_course": "bca"
+    },
+    "8": {
+        "member_name": "riddhi shah",
+        "member_course": "mba"
+    },
+    "9": {
+        "member_name": "harsh patel",
+        "member_course": "mca"
+    },
+    "10": {
+        "member_name": "khushi desai",
+        "member_course": "bca"
+    },
+    "11": {
+        "member_name": "yash solanki",
+        "member_course": "bcom"
+    },
+    "12": {
+        "member_name": "diya patel",
+        "member_course": "bba"
+    },
+    "13": {
+        "member_name": "parth shah",
+        "member_course": "bca"
+    },
+    "14": {
+        "member_name": "krisha mehta",
+        "member_course": "mca"
+    },
+    "15": {
+        "member_name": "dhruv joshi",
+        "member_course": "mba"
+    },
+    "16": {
+        "member_name": "isha patel",
+        "member_course": "bca"
+    },
+    "17": {
+        "member_name": "meet shah",
+        "member_course": "bcom"
+    },
+    "18": {
+        "member_name": "janvi desai",
+        "member_course": "bba"
+    },
+    "19": {
+        "member_name": "dev patel",
+        "member_course": "mca"
+    },
+    "20": {
+        "member_name": "kavya shah",
+        "member_course": "bca"
+    },
+    "21": {
+        "member_name": "manav joshi",
+        "member_course": "mba"
+    },
+    "22": {
+        "member_name": "riya patel",
+        "member_course": "bcom"
+    },
+    "23": {
+        "member_name": "jay shah",
+        "member_course": "bca"
+    },
+    "24": {
+        "member_name": "mansi mehta",
+        "member_course": "mca"
+    },
+    "25": {
+        "member_name": "ronak patel",
+        "member_course": "bba"
+    },
+    "26": {
+        "member_name": "vidhi joshi",
+        "member_course": "bca"
+    },
+    "27": {
+        "member_name": "smit shah",
+        "member_course": "bcom"
+    },
+    "28": {
+        "member_name": "aarti patel",
+        "member_course": "mba"
+    },
+    "29": {
+        "member_name": "nirav desai",
+        "member_course": "bca"
+    },
+    "30": {
+        "member_name": "palak shah",
+        "member_course": "mca"
+    },
+    "31": {
+        "member_name": "akash patel",
+        "member_course": "bba"
+    },
+    "32": {
+        "member_name": "jinal mehta",
+        "member_course": "bcom"
+    },
+    "33": {
+        "member_name": "vivek joshi",
+        "member_course": "bca"
+    },
+    "34": {
+        "member_name": "avni shah",
+        "member_course": "mba"
+    },
+    "35": {
+        "member_name": "tushar patel",
+        "member_course": "mca"
+    },
+    "36": {
+        "member_name": "pooja desai",
+        "member_course": "bca"
+    },
+    "37": {
+        "member_name": "mayur shah",
+        "member_course": "bcom"
+    },
+    "38": {
+        "member_name": "nidhi patel",
+        "member_course": "bba"
+    },
+    "39": {
+        "member_name": "ankit mehta",
+        "member_course": "mca"
+    },
+    "40": {
+        "member_name": "shruti joshi",
+        "member_course": "bca"
+    },
+    "41": {
+        "member_name": "sagar patel",
+        "member_course": "mba"
+    },
+    "42": {
+        "member_name": "bhumi shah",
+        "member_course": "bcom"
+    },
+    "43": {
+        "member_name": "rohit desai",
+        "member_course": "bca"
+    },
+    "44": {
+        "member_name": "krupa patel",
+        "member_course": "mca"
+    },
+    "45": {
+        "member_name": "hardik shah",
+        "member_course": "bba"
+    },
+    "46": {
+        "member_name": "urvi mehta",
+        "member_course": "bca"
+    },
+    "47": {
+        "member_name": "vishal joshi",
+        "member_course": "bcom"
+    },
+    "48": {
+        "member_name": "esha patel",
+        "member_course": "mba"
+    },
+    "49": {
+        "member_name": "chirag shah",
+        "member_course": "bca"
+    },
+    "50": {
+        "member_name": "sakshi desai",
+        "member_course": "mca"
+    },
+    "51": {
+        "member_name": "keval patel",
+        "member_course": "bba"
+    },
+    "52": {
+        "member_name": "dhara shah",
+        "member_course": "bcom"
+    },
+    "53": {
+        "member_name": "jigar mehta",
+        "member_course": "bca"
+    },
+    "54": {
+        "member_name": "payal joshi",
+        "member_course": "mba"
+    },
+    "55": {
+        "member_name": "hitesh patel",
+        "member_course": "mca"
+    },
+    "56": {
+        "member_name": "tina shah",
+        "member_course": "bca"
+    },
+    "57": {
+        "member_name": "ravi desai",
+        "member_course": "bcom"
+    },
+    "58": {
+        "member_name": "priyanka patel",
+        "member_course": "bba"
+    },
+    "59": {
+        "member_name": "darshan shah",
+        "member_course": "mca"
+    },
+    "60": {
+        "member_name": "heena mehta",
+        "member_course": "bca"
+    },
+    "61": {
+        "member_name": "kunal joshi",
+        "member_course": "mba"
+    },
+    "62": {
+        "member_name": "komal patel",
+        "member_course": "bcom"
+    },
+    "63": {
+        "member_name": "nikhil shah",
+        "member_course": "bca"
+    },
+    "64": {
+        "member_name": "falguni desai",
+        "member_course": "mca"
+    },
+    "65": {
+        "member_name": "milan patel",
+        "member_course": "bba"
+    },
+    "66": {
+        "member_name": "ananya shah",
+        "member_course": "bca"
+    },
+    "67": {
+        "member_name": "raj mehta",
+        "member_course": "bcom"
+    },
+    "68": {
+        "member_name": "sonal joshi",
+        "member_course": "mba"
+    },
+    "69": {
+        "member_name": "pratik patel",
+        "member_course": "mca"
+    },
+    "70": {
+        "member_name": "isha shah",
+        "member_course": "bca"
+    },
+    "71": {
+        "member_name": "hemant desai",
+        "member_course": "bba"
+    },
+    "72": {
+        "member_name": "nikita patel",
+        "member_course": "bcom"
+    },
+    "73": {
+        "member_name": "sunny shah",
+        "member_course": "bca"
+    },
+    "74": {
+        "member_name": "kajal mehta",
+        "member_course": "mca"
+    },
+    "75": {
+        "member_name": "gaurav joshi",
+        "member_course": "mba"
+    },
+    "76": {
+        "member_name": "simran patel",
+        "member_course": "bca"
+    },
+    "77": {
+        "member_name": "arjun shah",
+        "member_course": "bcom"
+    },
+    "78": {
+        "member_name": "tanvi desai",
+        "member_course": "bba"
+    },
+    "79": {
+        "member_name": "mohit patel",
+        "member_course": "mca"
+    },
+    "80": {
+        "member_name": "isha joshi",
+        "member_course": "bca"
+    },
+    "81": {
+        "member_name": "aditya shah",
+        "member_course": "mba"
+    },
+    "82": {
+        "member_name": "pragati patel",
+        "member_course": "bcom"
+    },
+    "83": {
+        "member_name": "varun mehta",
+        "member_course": "bca"
+    },
+    "84": {
+        "member_name": "sejal shah",
+        "member_course": "mca"
+    },
+    "85": {
+        "member_name": "nishant patel",
+        "member_course": "bba"
+    },
+    "86": {
+        "member_name": "rupal joshi",
+        "member_course": "bca"
+    },
+    "87": {
+        "member_name": "jaydeep shah",
+        "member_course": "bcom"
+    },
+    "88": {
+        "member_name": "kinjal patel",
+        "member_course": "mba"
+    },
+    "89": {
+        "member_name": "sanket desai",
+        "member_course": "mca"
+    },
+    "90": {
+        "member_name": "vaishali shah",
+        "member_course": "bca"
+    },
+    "91": {
+        "member_name": "rohan patel",
+        "member_course": "bba"
+    },
+    "92": {
+        "member_name": "monika mehta",
+        "member_course": "bcom"
+    },
+    "93": {
+        "member_name": "deep joshi",
+        "member_course": "bca"
+    },
+    "94": {
+        "member_name": "rashi shah",
+        "member_course": "mca"
+    },
+    "95": {
+        "member_name": "abhishek patel",
+        "member_course": "mba"
+    },
+    "96": {
+        "member_name": "megha desai",
+        "member_course": "bca"
+    },
+    "97": {
+        "member_name": "jatin shah",
+        "member_course": "bcom"
+    },
+    "98": {
+        "member_name": "saloni patel",
+        "member_course": "bba"
+    },
+    "99": {
+        "member_name": "pritesh mehta",
+        "member_course": "mca"
+    },
+    "100": {
+        "member_name": "devanshi joshi",
+        "member_course": "bca"
+    },
+    "101": {
+        "member_name": "shubham patel",
+        "member_course": "mba"
+    },
+    "102": {
+        "member_name": "maitri shah",
+        "member_course": "bca"
+    },
+    "103": {
+        "member_name": "pragnesh shah",
+        "member_course": "Imca"
+    },
+    "104": {
+        "member_name": "jigna sheth",
+        "member_course": "M.COM"
+    }
+}
