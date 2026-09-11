@@ -526,8 +526,3 @@ The project is simple, organized, and can be extended in the future with feature
 
 ---
 
-## 19. Author
-
-**Developed as a Core Python Project**
-
-**Project:** Library Management System
